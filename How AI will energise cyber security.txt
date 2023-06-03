@@ -1,0 +1,108 @@
+AI and machine learning (ML) are becoming attackers’ preferred technologies, from designing malicious payloads that defy detection to writing customized phishing emails. The recent GoDaddy multiyear breach has all the signs of an AI-driven cyberattack designed to evade detection and reside in the company’s infrastructure for years. 
+
+
+Attackers rely on AI to avoid detection 
+Cybercriminal gangs and sophisticated advanced persistent threat (APT) groups actively recruit AI and ML specialists who design malware that can evade current-generation threat detection systems. What attackers lack in size and scale, they more than make up for in ingenuity, speed and stealth.
+
+“I’ve been amazed at the ingenuity when someone has six months to plan their attack on your company — so always be vigilant,” Kevin Mandia, CEO of Mandiant, said during a fireside chat with George Kurtz at CrowdStrike’s Fal.Con conference last year. 
+
+Nearly three-quarters (71%) of all detections indexed by CrowdStrike Threat Graph were malware-free intrusions. CrowdStrike’s Falcon OverWatch Threat Hunting Report illustrates how advanced attackers use valid credentials to facilitate access and persistence in victim environments.
+
+
+Another contributing factor is the rate at which new vulnerabilities are disclosed and the speed with which adversaries can operationalize exploits using AI and ML. 
+
+Attackers are using ChatGPT to refine malware, personalize phishing emails and fine-tune algorithms designed to steal privileged access credentials.
+
+As Shishir Singh, CTO of cybersecurity at BlackBerry notes: “It’s been well documented that people with malicious intent are testing the waters, but over this year, we expect to see hackers get a much better handle on how to use ChatGPT successfully for nefarious purposes; whether as a tool to write better mutable malware or as an enabler to bolster their ‘skillset.’ Both cyber pros and hackers will continue to look into how they can utilize it best. Time will tell who’s more effective.”
+
+In fact, a recent survey by BlackBerry found that 51% of IT decision-makers believe there will be a successful cyberattack credited to ChatGPT within the year. 
+
+Vendors trying to keep pace with the AI arms race 
+Amazon Web Services, CrowdStrike, Google, IBM, Microsoft, Palo Alto Networks and other leading cybersecurity vendors are prioritizing investment in AI and ML research and development (R&D) in response to increasingly complex threats and requests from enterprise customers for new features.
+
+Charlie Bell, Microsoft’s EVP for security, compliance and identity and management said of AI’s role in cybersecurity: “It’s basically having the machinery to just continuously go fast, especially in ML. All the model training, data stuff and everything else is a super-high priority. Microsoft has a tremendous amount of technology in the AI space.”  
+
+CrowdStrike’s many new announcements at Fal.Con last year, along with Palo Alto Networks’ Ignite ’22, illustrate how effective their DevOps and engineering teams are at translating R&D investment into new products.
+
+Amazon Web Services’ hundreds of cybersecurity services and Microsoft Azure’s zero trust developments reflect how R&D spending on AI and ML is a high priority in two of the largest cloud platform providers. Microsoft sunk $1 billion in cybersecurity R&D last year and committed to spending $20 billion over the next five years on cybersecurity R&D (beginning in 2021). Microsoft’s security business generates $15 billion annually.
+
+Ivanti’s continual stream of new announcements, including those at RSA and many successful acquisitions followed by rapid advances in AI development, are cases in point. Each of these cybersecurity vendors knows how to translate AI and ML expertise into cyber-resilient systems and solutions faster than competitors while fine-tuning the UX aspects of their platforms.
+
+
+CrowdStrike’s efficiency at translating its R&D investments into new products exemplifies the breadth of new announcements made at every year’s Fal.Con event, which was noteworthy for its introduction of Threat Graph, Asset Graph, CNAPP and XDR. Source: CrowdStrike’s research and development (R&D) expenses from FY2017 to FY2022, Statista
+Predicting where AI will improve cybersecurity 
+AI and ML are defining the future of e-crime, with cybercriminal gangs and APT groups ramping up AI hacker-for-hire programs and ransomware-as-a-service while expanding their base of AI-enabled cloaking techniques — and more. It’s why security teams are losing the AI war. 
+
+These factors, combined with the continued resiliency of cybersecurity spending, lead to optimistic forecasts about investment in AI. VentureBeat has curated the most interesting forecasts, noted below:
+
+AI-based behavioral analytics are proving effective at identifying, shutting down malicious activity
+Core to the zero trust frameworks that organizations are standardizing today is real-time visibility and monitoring of all activity across a network.
+
+AI-based behavioral analytics provides real-time data on potentially malicious activity by identifying and acting on anomalies. It’s proving effective in allowing CISOs and their teams to set baselines for normal behavior by analyzing and understanding past behavior and then identifying anomalies in the data. 
+
+Leading cybersecurity vendors rely on AI and ML algorithms to personalize security roles or profiles for each user in real time based on their behavior and patterns. By analyzing several variables, including where and when users attempt to log in, device type, and configuration, among others, these systems can detect anomalies and identify potential threats in real time.
+
+Leading providers include Blackberry Persona, Broadcom, CrowdStrike, CyberArk, Cybereason, Ivanti, SentinelOne, Microsoft, McAfee, Sophos and VMWare Carbon Black.
+
+CISOs and CIOs tell VentureBeat that this approach to AI-based endpoint management decreases the risk of lost or stolen devices, protecting against device and app cloning and user impersonation. With these techniques, enterprises can analyze endpoint protection platforms (EPPs), endpoint detection and response (EDR), unified endpoint management (UEM) and transaction fraud detection to improve authentication accuracy.
+
+
+Behavior-based machine learning models built into Microsoft Defender, Advanced Threat Protection, can shut down credential-theft attack chains. The graphic shows how multiple behavior-based protection layers disrupted the attack. Source: In hot pursuit of elusive threats: AI-driven behavior-based blocking stops attacks in their tracks, Microsoft Security Blog.
+Endpoint discovery and asset management is today’s most popular use case
+IBM’s Institute for Business Value study of AI and automation in cybersecurity finds that enterprises that are using AI as part of their broader strategy are concentrating on gaining a more holistic view of their digital landscapes. Thirty-five percent are applying AI and automation to discover endpoints and improve how they manage assets, a use case they predict will increase by 50% in three years. 
+
+Vulnerability and patch management is the second most popular use case (34%), predicted to increase to more than 40% adoption in 3 years.
+
+These findings indicate that more AI adopters are looking to the technology to help them achieve their zero trust initiatives.
+
+
+How strongly AI adopters focus on protecting endpoints and identities reflects how high a priority zero trust is to AI adopters. Source: AI and automation for cybersecurity report, IBM Institute for Business Value | Benchmark Insights, 2022.
+IT teams need AI to deliver vulnerability and patch management productivity gains
+In an Ivanti survey on patch management, 71% of IT and security professionals said they see patching as overly complex and taking too much time away from urgent projects. Just over half (53%) say that organizing and prioritizing critical vulnerabilities takes up most of their time.
+
+Leading vendors with AI-based patch management solutions include Blackberry, CrowdStrike Falcon, Ivanti Neurons for Patch Intelligence and Microsoft.  
+
+“Patching is not nearly as simple as it sounds,” said Srinivas Mukkamala, chief product officer at Ivanti. “Even well-staffed, well-funded IT and security teams experience prioritization challenges amidst other pressing demands. To reduce risk without increasing workload, organizations must implement a risk-based patch management solution and leverage automation to identify, prioritize and even address vulnerabilities without excess manual intervention.”
+
+Ivanti’s approach uniquely uses contextual intelligence derived from ML to streamline patch deployments. Ivanti Neurons Agents run independently on a set schedule, eliminating the need for time-consuming inventory techniques that waste IT teams’ time. Ivanti Neurons for Patch Intelligence helps enterprises reduce the time-to-patch, offloading manually-intensive tasks that IT teams would otherwise have to do.
+
+
+Ivanti has created the ability to measure service-level agreements (SLAs) compliance for patch management. CISOs and CIOs can tell from viewing a Patch Intelligence dashboard which devices exceed their SLAs and which patch types are needed, and track known vulnerabilities. Source: Ivanti Endpoint Security Now Integrates with Ivanti Neurons for Patch Intelligence, October 27, 2021
+Using AI to detect threats leads Gartner to use cases for AI in cybersecurity
+Gartner categorized AI use cases by comparing their business value and feasibility. Transaction fraud detection is the most feasible use case, and it delivers high business value. File-based malware detection is considered nearly as feasible and also delivers strong business value.
+
+Process behavioral analysis also delivers substantial business value, with a medium feasibility level to implement. Finally, abnormal system behavior detection delivers high business value and feasibility; Gartner believes this solution can be successfully implemented in enterprises. (Source: Gartner, Infographic: AI Use-Case Prism for Sourcing and 
+
+AI-based Indicators of Attack (IOAs) are a core catalyst driving the projected rapid growth of the AI-based cybersecurity market  
+The market size for AI in cybersecurity is predicted to be $22.4 billion in 2023 and is anticipated to reach $60.6 billion by 2028, reflecting a compound annual growth rate (CAGR) of 21.9%. Increasing the contextual intelligence of IOAs with AI is one of the core catalysts driving the rapid growth of AI in the broader cybersecurity market.
+
+By definition, IOAs focus on detecting an attacker’s intent and trying to identify their goals, regardless of the malware or exploit used in an attack.
+
+Conversely, an indicator of compromise (IOC) provides the forensics needed as evidence of a breach occurring on a network. IOAs must be automated to deliver accurate, real-time data on attack attempts to understand attackers’ intent and kill any intrusion attempt. 
+
+CrowdStrike, ThreatConnect, Deep Instinct and Orca Security are leaders in using AI and ML to streamline IOCs.
+
+CrowdStrike is the first and only provider of AI-based IOAs. According to the company, the technology works in conjunction with existing layers of sensor defense, including sensor-based ML and existing IOAs, asynchronously.
+
+The company’s AI-based IOAs combine cloud-native ML and human expertise on a common platform, which was invented by the company more than a decade ago. CrowdStrike’s approach to AI-based IOAs correlates the AI-generated IOAs (behavioral event data) with local events and file data to assess maliciousness.
+
+“CrowdStrike leads the way in stopping the most sophisticated attacks with our industry-leading indicators of attack capability, which revolutionized how security teams prevent threats based on adversary behavior, not easily changed indicators,” said Amol Kulkarni, chief product and engineering officer at CrowdStrike. 
+
+One notable achievement of CrowdStrike’s AI-powered IOAs is their identification of more than 20 adversary patterns that had never been seen before. These patterns were discovered during testing and implemented into the Falcon platform for automated detection and prevention.
+
+
+The ability of AI-powered IOAs to detect emerging classes of threats faster than traditional methods has been highlighted as a critical benefit of this technology. Source: CrowdStrike
+AI-based Indicators of Attack (IOAs) fortify existing defenses using cloud-based ML and real-time threat intelligence to analyze events at runtime and dynamically issue IOAs to the sensor. The sensor then correlates the AI-generated IOAs (behavioral event data) with local and file data to assess maliciousness.
+
+International Data Corporation (IDC) says AI in the cybersecurity market is growing at a CAGR of 23.6% and will reach a market value of $46.3 billion in 2027
+Another IDC survey found that cybersecurity is a top investment area across all regions; however, demand varies. Forty-six percent of North American respondents identified cybersecurity as a priority, driven by high levels of investment in cloud applications and infrastructure. In contrast, only 28% and 32% of EMEA and Asia/Pacific respondents, respectively, identified cybersecurity as a top investment area.
+
+Global market for AI-based cybersecurity forecasted to grow from $17.4 billion in 2022 to $102.78 billion in 2023, attaining a 19.43% CAGR
+Precedence Research found that fraud detection and the anti-fraud segment of the cybersecurity AI market accounted for 22% of global revenues in 2022. The research firm predicts AI’s fastest-growing areas will include battling fraud, identifying phishing emails and malicious links, and identifying privileged access credential abuse. Its study also found that increasingly complex cloud infrastructures comprised of multicloud and hybrid cloud configurations drive the need for AI-based cybersecurity solutions to protect them.
+
+
+Source: Precedence Research, Artificial Intelligence (AI) In Cybersecurity Market
+Detection dominates AI use cases today 
+AI delivers its potential when integrated into a broader zero trust security framework designed to treat every identity as a new security perimeter. The most robust use cases for AI and ML in cybersecurity began with a clear vision of what the technology and its solution protect. AI and ML-based technologies are proving effective at scaling to secure each use case when it’s an identity, either as a privileged access credential, container, device or a supplier or contractor’s laptop. 
+
+Detection dominates use cases because more CISOs and leading enterprises know that becoming cyber-resilient is the best way to scale cybersecurity strategies. And with the C-suite expecting risk management reductions to be measured financially, cyber-resilience is the best direction forward. 
